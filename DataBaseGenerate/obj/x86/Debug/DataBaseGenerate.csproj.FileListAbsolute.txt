@@ -1,0 +1,4 @@
+D:\MN测试Project\DataBaseGenerate\DataBaseGenerate\obj\x86\Debug\DataBaseGenerate.csproj.GenerateResource.Cache
+D:\MN测试Project\DataBaseGenerate\DataBaseGenerate\obj\x86\Debug\DataBaseGenerate.csprojResolveAssemblyReference.cache
+D:\MN测试Project\DataBaseGenerate\DataBaseGenerate\obj\x86\Debug\DataBaseGenerate.Form1.resources
+D:\MN测试Project\DataBaseGenerate\DataBaseGenerate\obj\x86\Debug\DataBaseGenerate.Properties.Resources.resources
